@@ -20,3 +20,24 @@ C:\Users\Joseph Salas\source\repos\Proyecto Final Bases de Datos\Proyecto Final 
 C:\Users\Joseph Salas\source\repos\Proyecto Final Bases de Datos\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.CrearOrden.resources
 C:\Users\Joseph Salas\source\repos\Proyecto Final Bases de Datos\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.MainScreen.resources
 C:\Users\Joseph Salas\source\repos\Proyecto Final Bases de Datos\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.MainScreenLínea.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\bin\Debug\Proyecto Final Bases de Datos.exe.config
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto Final Bases de Datos.exe
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto Final Bases de Datos.pdb
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\bin\Debug\Proyecto Final Bases de Datos.exe
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\bin\Debug\Proyecto Final Bases de Datos.pdb
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\bin\Debug\EntityFramework.dll
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\bin\Debug\EntityFramework.xml
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto Final Bases de Datos.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.checkLists.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.closeProduction.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.Componentes.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.Components.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.CrearOrden.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.Documents.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.Productos.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.MainScreen.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.MainScreenLínea.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto_Final_Bases_de_Datos.Properties.Resources.resources
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\proyectoFinal\Proyecto Final Bases de Datos\obj\Debug\Proyecto Final Bases de Datos.csproj.GenerateResource.Cache
